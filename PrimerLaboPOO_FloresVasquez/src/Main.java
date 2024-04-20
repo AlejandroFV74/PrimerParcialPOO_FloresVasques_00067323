@@ -165,7 +165,7 @@ public class Main {
                         Articulo_Electronico articuloElectronico2 = new Articulo_Electronico(id, modelo, precio, descripcion, modeloDiscoDuro, modeloLectorCD) {
                         };
                         articuloElectronico.add(articuloElectronico2);
-                        
+
 
                         break;
 
